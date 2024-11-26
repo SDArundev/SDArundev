@@ -53,6 +53,6 @@ Web Development Specialist (React)
 - Always eager to learn and grow
 
 ## 📫 Connect with Me
-[Your Contact Information/Links]
+contact email in the description
 
 *"Transforming ideas into elegant, efficient digital solutions"*
